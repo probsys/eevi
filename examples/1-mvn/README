@@ -1,0 +1,6 @@
+The main runner script is in mvn_entropy.sh
+
+  $ ./mvn_entropy.sh results/ results/cov.dim@4.txt
+  $ ./mvn_entropy.sh results/ results/cov.dim@20.txt
+  $ ./mvn_entropy.sh results/ results/cov.dim@50.txt
+  $ ./mvn_entropy.sh results/ results/cov.dim@100.txt

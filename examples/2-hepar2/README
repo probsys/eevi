@@ -1,0 +1,6 @@
+The main runner script is in hepar2_entropy.jl
+
+  $ julia hepar2_entropy.jl
+
+This script will produce the estimator runtime, ranking of tests for
+different diseases, and the variance of the weights.

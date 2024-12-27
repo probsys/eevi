@@ -1,0 +1,10 @@
+The main runner script is in diabetes_smc.jl
+
+  $ julia diabetes_smc.jl
+
+This script will produce CMI for all pairs of time points, given a specific
+scenario of meal and ins_abs.  The default scenarios from the script are:
+
+  # Selected evidence scenario.
+  idx_meal = 0
+  idx_ins_abs = 0
